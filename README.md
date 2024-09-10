@@ -11,8 +11,6 @@ Welcome to the repository for the Next Gen Crowdfunding platform! This project a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -42,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/next-gen-crowdfunding.git
+    git clone https://github.com/MohammedAfrozeUddin/Next-Gen-Crowdfunding-on-Web3.0-frontier.git
     ```
 
 2. Navigate to the project directory:
@@ -77,17 +75,6 @@ We welcome contributions to enhance the platform. Please follow these guidelines
 2. Create a new branch for your feature or bugfix.
 3. Commit your changes.
 4. Open a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please reach out to:
-
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
 ---
 
