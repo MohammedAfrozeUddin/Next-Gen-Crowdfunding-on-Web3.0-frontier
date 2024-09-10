@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# crowdfunding
-/*
-A crowdfunding platform in web3 utilizes blockchain technology to enable transparent, 
-decentralized, and global fundraising for projects. 
-It leverages smart contracts and tokenization, 
-empowering creators and backers with increased trust, inclusivity, and innovative reward systems.
-*/
-=======
 # Next Gen Crowdfunding on the Web 3.0 Frontier
 
 Welcome to the repository for the Next Gen Crowdfunding platform! This project aims to redefine the crowdfunding landscape by leveraging cutting-edge Ethereum Blockchain technology, Smart Contracts, and modern web development frameworks. Our platform addresses common issues in traditional crowdfunding by offering enhanced security, transparency, and user control.
@@ -88,4 +79,3 @@ We welcome contributions to enhance the platform. Please follow these guidelines
 ---
 
 Feel free to adjust any details according to your specific needs or project requirements!
->>>>>>> cf3e3c828eec110c08468bc2849c2e072a8f787c
