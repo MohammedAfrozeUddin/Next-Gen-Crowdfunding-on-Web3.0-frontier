@@ -77,5 +77,3 @@ We welcome contributions to enhance the platform. Please follow these guidelines
 4. Open a pull request with a clear description of your changes.
 
 ---
-
-Feel free to adjust any details according to your specific needs or project requirements!
